@@ -62,14 +62,11 @@ section .container {
 
 section {
     padding: 24px 0;
+    color: #182C61;
 }
 
 section h2 {
     margin-bottom: 16px;
-}
-
-section {
-    color: #182C61;
 }
 
 section p {
